@@ -1,0 +1,5 @@
+{
+    "URL_CODENATION": "https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token=",
+    "URL_CODENATION_SUBMIT":"https://api.codenation.dev/v1/challenge/dev-ps/submit-solution?token=",
+    "token":"f71f2a087c075f46402cb171830a7d7f95ef06c1"
+}
